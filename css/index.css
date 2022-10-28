@@ -101,7 +101,7 @@ body{
 }
 
 .practice-text a spam{
-    font-size: 2em;
+    font-size: 1.4em;
     font-weight: bold;
 }
 
@@ -120,7 +120,7 @@ body{
 }
 
 .features-text{
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: bold;
     color: coral;
 }
@@ -159,7 +159,7 @@ body{
 }
 
 .mission-text{
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: bold;
     color: coral;
 }
